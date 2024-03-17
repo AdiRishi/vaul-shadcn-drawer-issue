@@ -17,4 +17,5 @@ pnpm start # for production build served with vite
 ```
 
 See repro
-![Repro](.github/assets/repro-img.jpg)
+
+<img src=".github/assets/repro-img.jpg" alt="Repro" width="300"/>
